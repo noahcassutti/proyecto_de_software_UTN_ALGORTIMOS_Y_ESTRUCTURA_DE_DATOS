@@ -70,12 +70,7 @@ Una vez que el proyecto esté en funcionamiento, puedes utilizar las opciones de
 
 ## Agradecimientos
 
-- Este proyecto fue creado con fines educativos y puede ser ampliado y personalizado según las necesidades específicas.
+- Este proyecto fue creado con fines educativos y puede ser ampliado y personalizado según las necesidades específicas, gracias a mis docentes de la materia algortimos y estrucutras de datos, por brindarnos la guia y apoyo para la resolucion del mismo
 
-## Licencia
-
-Este proyecto es de código abierto y está disponible bajo la [Licencia MIT](LICENSE).
-
----
 
 Debes reemplazar `<URL-del-repositorio>` con la URL real de tu repositorio de proyecto. Puedes agregar información adicional o personalizaciones según tus necesidades. Este README proporciona una estructura básica para la documentación de tu proyecto.
