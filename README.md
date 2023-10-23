@@ -1,8 +1,6 @@
-¡Claro! A continuación, te proporciono un README en español para tu proyecto:
 
----
 
-# README del Proyecto de Software
+# README del Proyecto de Software UTN GRUPAL MATERIA ALGORTIMOS Y ESTRUCTURA DE DATOS ULTIMO TRABAJO GRUPAL
 
 ## Resumen del Proyecto
 
